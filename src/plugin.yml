@@ -1,0 +1,22 @@
+main: com.minelogic.economy.core.Main
+name: economy
+version: 2.0
+author: men8
+description: Economy plugin for minelogic servers
+softdepend: [Vault]
+commands:
+     money:
+          description: List of commands
+          aliases: g
+          usage: /<command>
+          permission:
+     tokens:
+          description: List of commands
+          aliases: g
+          usage: /<command>
+          permission:
+     economy:
+          description: List of commands
+          aliases: g
+          usage: /<command>
+          permission:
